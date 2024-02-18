@@ -1,16 +1,6 @@
-# covid_app3
+# A small application called COVID-19
 
-A new Flutter project.
+#### I used backage FL_chart and flutter_svg
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1708137457](https://github.com/Mohamed-Essam-Mohamed/covid_app3/assets/152906492/535dc26d-98a2-40df-8ef4-24bf2f1b5502)
+![app3](https://github.com/Mohamed-Essam-Mohamed/covid_app3/assets/152906492/8cdb8450-45ea-4eee-b3b0-6695de205085)
