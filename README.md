@@ -3,7 +3,6 @@
 
 #### I used backage FL_chart and flutter_svg
 
-
 ![app3part1](https://github.com/Mohamed-Essam-Mohamed/covid_app3/assets/152906492/dfa50ce4-1918-48cb-b919-c25823c22fde)
 
 
