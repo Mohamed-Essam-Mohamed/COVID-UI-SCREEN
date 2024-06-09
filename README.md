@@ -1,6 +1,5 @@
 # A small application called COVID-19
 
-
 #### I used backage FL_chart and flutter_svg
 
 
